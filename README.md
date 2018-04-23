@@ -1,8 +1,8 @@
 # MyPersonalSite
-##Girish Baviskar
+## Girish Baviskar
 
 *Girish Baviskar*
-[Click here](www.girishbaviskar.com)
+[Click here] (http://www.girishbaviskar.com)
 ```
     if(x>0)
 ```
@@ -17,4 +17,4 @@ First Column | Second column
 R1C1 | R1C2
 R2C1 | R2C2
 
-``asdf``
+`` asdf ``
